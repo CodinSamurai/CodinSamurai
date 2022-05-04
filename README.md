@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Whats a question never asked?
 
-![CodinSamurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodinSamurai&show_icons=true&theme=dark)
+![CodinSamurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodinSamurai&show_icons=true&theme=merko)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodinSamurai&repo=github-readme-stats)](https://github.com/CodinSamurai/github-readme-stats)
