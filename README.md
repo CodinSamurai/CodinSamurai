@@ -13,3 +13,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodinSamurai&layout=compact)](https://github.com/CodinSamurai/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodinSamurai)](https://github.com/CodinSamurai/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodinSamurai&repo=github-readme-stats)](https://github.com/CodinSamurai/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodinSamurai)](https://git.io/streak-stats)
+
