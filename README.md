@@ -17,5 +17,4 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodinSamurai)](https://github.com/CodinSamurai/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodinSamurai&repo=github-readme-stats)](https://github.com/CodinSamurai/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodinSamurai&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
