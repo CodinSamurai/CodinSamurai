@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tonyboodd@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Whats a question never asked?
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodinSamurai&repo=github-readme-stats)](https://github.com/CodinSamurai/github-readme-stats)
