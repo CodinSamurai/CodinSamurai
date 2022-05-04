@@ -10,4 +10,5 @@
 - ⚡ Fun fact: Whats a question never asked?
 
 ![CodinSamurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodinSamurai&show_icons=true&theme=tokyonight)
+[![CodinSamurai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodinSamurai)](https://github.com/CodinSamurai/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodinSamurai&repo=github-readme-stats)](https://github.com/CodinSamurai/github-readme-stats)
